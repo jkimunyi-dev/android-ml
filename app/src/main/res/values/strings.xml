@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android-ml</string>
+    <string name="face_image_description">"Face "</string>
+    <string name="trending">Trending</string>
+</resources>
